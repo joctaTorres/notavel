@@ -54,6 +54,24 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0.5;
 }
 
+.overlay-carousel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #111111;
+  opacity: 0.2;
+}
+
+.text-section {
+  margin: 25px 0px 25px 0px;
+}
+
+#alerta-cursos {
+  margin: 25px 0px 35px 0px;
+}
+
 header.masthead {
   position: relative;
   overflow: hidden;
